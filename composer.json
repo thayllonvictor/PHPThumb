@@ -1,0 +1,20 @@
+{
+    "name":"thayllonvictor/phpthumb",
+    "description":"A simple class that uses the gd lib to cut and create thumbnails from images.",
+    "type":"library",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name":"Thayllon Victor",
+            "email":"thayllonviictor@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ThayllonVictor\\PHPThumb\\":"src/"
+        }
+    },
+    "require": {
+        "php":">=7.0"
+    }
+}

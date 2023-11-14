@@ -1,17 +1,7 @@
 <?php
     
-    /**
-     * 
-     * @param $file_image
-     * @param $width_thumbnail
-     * @param $height_thumbnail
-     * @param $file_name;
-     * 
-     * @return $thumbnail
-     * 
-     */
-
-
+    namespace ThayllonVictor\PHPThumb;
+    
     final class PHPThumb{
 
         private $type;
