@@ -4,8 +4,8 @@ A simple class that uses the gd lib to cut and create thumbnails from images.
 
 ## Installation
 
-```bash
-require_once 'PHPThumb.php';
+```shell
+composer require thayllonvictor/phpthumb
 ```
 
 ## Usage
